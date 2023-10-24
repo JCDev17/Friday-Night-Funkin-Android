@@ -3,7 +3,7 @@
 	"image": "Menu_GF",
 	"position": [
 		0,
-		-25
+		-10
 	],
 	"scale": 1,
 	"idle_anim": "M GF Idle",

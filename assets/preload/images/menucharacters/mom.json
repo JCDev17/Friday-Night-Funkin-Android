@@ -3,8 +3,8 @@
 	"image": "Menu_Mom",
 	"position": [
 		0,
-		10
+		0
 	],
-	"scale": 1,
+	"scale": 1.15,
 	"confirm_anim": "M Dad Idle"
 }

@@ -2,10 +2,10 @@
 	
 	"image": "Menu_BF",
 	"position": [
-		15,
-		-40
+		60,
+		-15
 	],
-	"scale": 1,
+	"scale": 1.1,
 	"idle_anim": "M BF Idle",
 	"confirm_anim": "M bf HEY"
 }
